@@ -6,8 +6,6 @@ You don't need to create and add basic code and depency for start project using 
 # How use this template
 Just press button "Use this template" and after that clone repo in your machine.
 
-# Contribution
-If you like this project, give a star and if you want to add some contribution then rise pull request.
 
 ## Architecture
 This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
